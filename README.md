@@ -1,5 +1,8 @@
 # Boss Machine
 
+## Note
+This project was created via a Codecademy course 'Full-Stack Engineer' and all credit to owed to the Codecademy team for providing the guidance to complete. The below instructions detail the requirements for the project.
+
 ## Project Overview
 
 In this project, you will create an entire API to serve information to a Boss Machine, a unique management application for today's most accomplished (evil) entrepreneurs. You will create routes to manage your 'minions', your brilliant 'million dollar ideas', and to handle all the annoying meetings that keep getting added to your busy schedule.
@@ -11,7 +14,7 @@ You can view a video demonstration of the final app here:
  The markdown processor does not support the video tag.
 </video>
 
-## How to Begin
+## Instructions
 
 To start, download the starting code for this project <a href="https://s3.amazonaws.com/codecademy-content/PRO/skill-paths/backend-javascript/projects/boss-machine/project-4-boss-machine-start.zip" target="_blank">here</a>. After downloading the zip folder, double click it to uncompress it and access the contents.
 
